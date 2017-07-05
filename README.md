@@ -2,4 +2,4 @@
 
 For more detail see **P4.pdf** file.
 
-For code detail see **P4.rmd** file.
+In addition you can find the code in **P4.rmd** file.
